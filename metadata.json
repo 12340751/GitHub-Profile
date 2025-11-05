@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Profile Explorer",
+  "description": "An application to explore and visualize GitHub user profiles with an AI-generated summary.",
+  "requestFramePermissions": []
+}
